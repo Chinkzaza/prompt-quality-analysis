@@ -1,0 +1,5 @@
+[
+  {"id": 1, "prompt": "Summarize AI in one sentence.", "response": "AI is a field of computer science..."},
+  {"id": 2, "prompt": "Translate 'Hello' to French.", "response": "Bonjour"},
+  {"id": 3, "prompt": "Write a story about cats.", "response": "Once upon a time..."}
+]
